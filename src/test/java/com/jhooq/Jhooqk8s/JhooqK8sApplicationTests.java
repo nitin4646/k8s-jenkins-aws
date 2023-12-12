@@ -6,9 +6,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class JhooqK8sApplicationTests {
 
-	@Test("/hello")
+	@Test
 	void contextLoads() {
-		return "Hello - World(Spring Boot app)!";
 	}
    }
 
