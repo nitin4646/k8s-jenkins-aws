@@ -9,6 +9,6 @@ class JhooqK8sApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-   }
+   
 
 }
